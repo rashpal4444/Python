@@ -1,6 +1,8 @@
-a = 10
-b =20
-c = a*a
-d =  b*a
-e = c*d
-print(e)
+str = "rashpalj"
+print(str[5])
+
+str = "apna college"
+print(str[1:5])
+
+str ="rashpal syal"
+print(str[1:6])
