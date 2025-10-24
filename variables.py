@@ -1,10 +1,6 @@
-name = "laddi"
+name = "rashpal"
 age = 27
-
-print(name," : ", age) 
-https://github.com/rashpal4444/Python.git
-
-
-
-
-
+price = 29.99
+age2 = age
+print("my name is:",name )
+print("my age is",age2)
