@@ -1,4 +1,4 @@
 name = "rashpal"
-class = "b tech"
+room = "b tech"
 roll = 32
-print("name,class")
+print(name)
